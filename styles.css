@@ -1,0 +1,69 @@
+a {
+	color: #ff0099;
+	padding: 25px 20px;
+	font-size: 18px;
+
+}
+
+#LinkedIn {
+	padding-right: 10%;
+}
+
+#menu {
+	background-color: #333333;
+	padding: 20px 0px 20px 0px;
+	float: top right;
+	width: 100%;
+	font-family: consolas;
+	text-align: right;	
+}
+
+#logo {
+	position:absolute;
+	margin-top:15px;
+	margin-left: 10%;
+}
+
+#developer {
+	color: #ff0099;
+
+}
+
+p, dl, ul {
+	font-family: consolas
+	font-size:18px;
+}
+
+h1, h2, h3 {
+	font-family: courier
+}
+
+h3 {
+	font-size: 18px;
+}
+.main {
+	padding:0% 10%;
+}
+
+#fox {
+	float: right;
+}
+
+.center {
+	text-align: center;
+	margin-top: 30px;
+}
+
+dt {
+	font-size:18px;
+	font-weight: bold;
+	padding: 10px 0px;
+}
+
+dd {
+	margin-left:unset;
+}
+
+body {
+	background: url("https://www.toptal.com/designers/subtlepatterns/patterns/topography.png");
+}
